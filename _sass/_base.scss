@@ -17,6 +17,8 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: Arial;
+  // font-weight: bold;
 }
 
 hr {
@@ -709,7 +711,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 800;
       }
 
       .author {
