@@ -15,9 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fifth year PhD student in the <a href='https://amcs.upenn.edu/'>Applied Math and Computational Science (AMCS)</a> program at University of Pennsylvania, where I'm fortunate to be advised by <a href='https://penncil.med.upenn.edu/about-pi/'> Prof. Yong Chen</a>. Previously, I received a B.A. in Mathematics (Honors) and Computer Science from <a href='https://www.macalester.edu/'>Macalester College</a>, where I was forturnate to work with <a href='https://www.loriziegelmeier.com/'>Prof. Lori Ziegelmeier</a>, <a href='https://www.shilad.com//'>Prof. Shilad Sen</a>, and advised by <a href='https://mathbeveridge.github.io/'>Prof. Andrew Beveridge</a> and <a href='https://sites.google.com/macalester.edu/susan-fox-profile/home'>Prof. Susan Fox</a>.
+I am a fifth year PhD student in the <a href='https://amcs.upenn.edu/'>Applied Math and Computational Science (AMCS)</a> program at University of Pennsylvania, working on LLM post-training and reasoning, and long-horizon multi-turn tool-calling agents and credit assignment.
 
-My research focus is on LLM post-training (RL) and applications.
+Currently, I focus on building agentic capabilities for large language models as autonomous agents at ByteDance Seed team and contributed to <a href='https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf'>Seed 2.X</a>.
+
+Previously, I received a B.A. in Mathematics (Honors) and Computer Science from <a href='https://www.macalester.edu/'>Macalester College</a>.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

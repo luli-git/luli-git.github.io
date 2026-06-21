@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started internship at Adobe Research!
+Started internship at Adobe Research, working on RL for hyper-personalized LLMs.
