@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a fifth year PhD student in the <a href='https://amcs.upenn.edu/'>Applied Math and Computational Science (AMCS)</a> program at University of Pennsylvania, working on LLM post-training and reasoning, and long-horizon multi-turn tool-calling agents and credit assignment.
 
-Currently, I focus on building agentic capabilities for large language models as autonomous agents at ByteDance Seed team and contributed to <a href='https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf'>Seed 2.X</a>.
+Currently, I focus on building agentic capabilities for large language models as autonomous agents at ByteDance Seed team and contributed to Seed 2.X.
 
 Previously, I received a B.A. in Mathematics (Honors) and Computer Science from <a href='https://www.macalester.edu/'>Macalester College</a>.
 
